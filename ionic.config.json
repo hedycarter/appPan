@@ -1,0 +1,8 @@
+{
+  "name": "Sira Sariyaw",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
